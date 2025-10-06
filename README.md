@@ -10,6 +10,10 @@
 
 ###
 
+<p align="left">Em breve.</p>
+
+###
+
 <h2 align="left">Skills</h2>
 
 ###

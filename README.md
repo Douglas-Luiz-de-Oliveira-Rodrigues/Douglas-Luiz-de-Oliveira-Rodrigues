@@ -8,10 +8,10 @@
 
 ## 🛠️ Tecnologias em aprendizado
 
-- Excel (do básico ao avançado)
+- Excel
 - SQL
 - Power BI
-- Python (Pandas e análise de dados)
+- Python
 
 ---
 
